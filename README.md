@@ -8,7 +8,7 @@ Call system default web browser to open a url.
 
 # Related
 
-Mdviewer: View markdown file in web browser
+**Mdviewer**: View markdown file in web browser <p>
 [github.com/zyfdegh/mdviewer][1]
 
 [1]:github.com/zyfdegh/mdviewer
