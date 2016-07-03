@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/skratchdot/open-golang
+  subpackages:
+  - open
