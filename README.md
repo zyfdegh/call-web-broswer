@@ -3,8 +3,8 @@ Call system default web browser to open a url.
 
 # Run
 	* copy this project under GOPATH
-	* go build src/main.go
-	* ./main
+	* go build
+	* ./call-web-broswer
 
 # Related
 
